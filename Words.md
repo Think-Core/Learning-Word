@@ -2,7 +2,7 @@
 ## 2019/5/20
 ### **Title** : *Github* *单词*
 
-1. commit                                                      *v.*做出
+1. commit                                                      *v*.做出
 2. submit                                                       *v*.提交
 3. repositories                                              *v*.仓库
 4. initial		                                         *adj*.最初的
