@@ -1,5 +1,6 @@
 # English Word
 ## 2019/5/20
+
 ### **Title** : *Github* *单词*
 
 1. commit                                                      *v*.做出
@@ -13,7 +14,33 @@
 9. propose                                                   *v*.简易
 10. zoom                                                        *v*.上升;细节
 
+---
 
+## 2019/5/21
+
+### **Title ：**  ***Github 单词***
+
+1. fetch                                                        *v*.拿来
+
+2. fetch origin                                             提取原点
+
+3. Tetris                                                       *n*.俄罗斯方块
+
+4. Issues                                                      *v*.发布; 
+
+   > Github 里作为评论区，有提问有讨论
+
+5. Explore                                                    *v*.探索           
+
+6. permanent                                             *adj*.永久的
+
+7. accurate                                                  *adj*.精确的
+
+8. acquaint                                                  *v*.认识;相识
+
+9. acquaintance                                          *n*.名人
+
+10. alter                                                          *v*.修正
 
 
 
