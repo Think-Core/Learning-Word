@@ -38,7 +38,7 @@
 
 8. acquaint                                                  *v*.认识;相识
 
-9. acquaintance                                          *n*.名人
+9. acquaintance                                          *n*.熟人
 
 10. alter                                                          *v*.修正
 
@@ -78,3 +78,23 @@
 
 
 
+---
+
+## 2019/5/24
+
+### Title :   ***打卡计划***
+
+1. conflict                                                  *n*.冲突；战斗
+2. facility                                                    *n*.设备；设施
+3. term                                                       *n*.术语
+4. decline                                                   *v*. 下降;婉拒
+5. recession                                               *n*.衰退
+6. recess                                                     *v*.休会；暂停；*n*.休庭；休会期
+7. adhered                                                 *v*.黏附；附着;坚持
+8. adhering                                                *v*.坚持
+9.  excellent                                                *adj*.优秀的;杰出的
+10.  consequence                                         *n*.后果；结果；重要性
+
+
+
+   
